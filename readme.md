@@ -73,3 +73,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 Feito com 💜 by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+
+## Resultado da Aplicação
+
+<img alt="Stargazers" src="img/preview.jpeg">
